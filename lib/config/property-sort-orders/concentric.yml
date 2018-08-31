@@ -36,7 +36,9 @@ order:
   - 'clear'
 
   - 'transform'
+  - 'transform-origin'
   - 'transition'
+  - 'transition-delay'
 
   - 'animation'
   - 'animation-name'
@@ -104,6 +106,7 @@ order:
   - 'background-position'
   - 'background-size'
   - 'cursor'
+  - 'pointer-events'
 
   - 'padding'
   - 'padding-top'
